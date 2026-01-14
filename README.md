@@ -51,8 +51,7 @@ Tables for:
 - DDL.sql Database schema creation scripts
 - DML.sql Sample data insertion scripts
 - PL.SQL Stored procedures and database logic
-- Project documentation PDF
-- Includes schema diagrams and sample data
+- Includes schema diagram, Database schema (ER diagram), Example query output, Frontend dashboard connected to backend, and sample data
 
 ## Frontend Integration
 
