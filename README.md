@@ -29,8 +29,9 @@ This repository focuses on the database layer and my frontend integration work.
 - Ensuring frontend CRUD operations correctly reflected database state
 - Built and maintained the client dashboard and administrative UI
 - Validated database behavior through frontend driven workflows
+- Responsible for integrating the API into the frontend, testing endpoints, and adapting frontend workflows to backend constraints
 
-Note: The backend server implementation was created by a teammate and is not included in this repository. My work focused on database design, SQL logic, and frontend to database integration.
+Note: The backend server implementation was created by a teammate and is not included in this repository. My work focused on database design, SQL logic, and frontend and backend integration, and frontend to database integration.
 
 ## Database Features
 
