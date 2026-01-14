@@ -52,7 +52,7 @@ Tables for:
 - DML.sql Sample data insertion scripts
 - PL.SQL Stored procedures and database logic
 - Project documentation PDF
-- Includes schema diagrams, sample data, and worked queries
+- Includes schema diagrams and sample data
 
 ## Frontend Integration
 
