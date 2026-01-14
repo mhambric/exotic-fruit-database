@@ -51,7 +51,8 @@ Tables for:
 - DDL.sql Database schema creation scripts
 - DML.sql Sample data insertion scripts
 - PL.SQL Stored procedures and database logic
-- Includes schema diagram, Database schema (ER diagram), Example query output, Frontend dashboard connected to backend, and sample data
+- Includes schema diagram, Database schema (ER diagram), Example query output, Frontend dashboard connected to backend, and sample data located here in the documentation/screenshots folder:
+- https://github.com/mhambric/exotic-fruit-database/tree/main/documentation/screenshots
 
 ## Frontend Integration
 
